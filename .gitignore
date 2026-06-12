@@ -2,3 +2,6 @@
 
 # .env 파일을 git에서 무시
 .env
+
+# 340 비디오 생성 노트북 (본 노트북 + 정답)
+*340_Video_Generation_DiT*.ipynb
